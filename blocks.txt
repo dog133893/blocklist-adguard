@@ -1,2 +1,3 @@
 ||0-rw1-t.jelvax.in.net^
-||scratch.mit.edu
+||streameast.gl
+||streampass.net
